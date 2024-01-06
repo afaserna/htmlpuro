@@ -6,6 +6,11 @@ body
 
 }
 
+#cabecera
+{
+    background: blue;
+}
+
 #container 
 {
     color: #d01212;
